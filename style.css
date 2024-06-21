@@ -12,10 +12,23 @@
     margin-top: 5rem;
 }
 
+
+
 .container img{
     box-shadow: 6px -2px 14px lightblue;
     animation: ComingBack 1s cubic-bezier(0.6, -0.28, 0.735, 0.045);
     filter: contrast(1.3);
+    width: 1s7vw;
+}
+
+
+.btn-group{
+    width: 9rem;
+}
+
+.btn-text{
+    font-size: 1rem;
+    font-weight: 600;
 }
 
 .column-2{
